@@ -32,7 +32,7 @@ To run the Analog Clock project locally, follow these steps:
 
 1. Clone the repository or download the files.
    ```bash
-   git clone https://github.com/yourusername/internet-status-checker.git
+   git clone https://github.com/dilipkumar005/Web-Development.git
 
 2. Open the index.html file in your web browser.
 

@@ -20,7 +20,7 @@ A simple web application that checks the user's internet connection status, disp
 
 1. Clone the repository or download the files.
    ```bash
-   git clone https://github.com/yourusername/internet-status-checker.git
+   git clone https://github.com/dilipkumar005/Web-Development.git
 
 2. Open the index.html file in your web browser.
 
